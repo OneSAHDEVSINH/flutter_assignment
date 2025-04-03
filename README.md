@@ -76,4 +76,4 @@ We welcome contributions! Follow these steps to contribute to the project:
 This project is licensed under the [Your License Name] License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For any questions or inquiries, please contact [OneSAHDEVSINH](https://github.com/OeSAHDEVSINH).
+For any questions or inquiries, please contact [OneSAHDEVSINH](https://github.com/OneSAHDEVSINH).
